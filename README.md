@@ -24,4 +24,4 @@ As a developer, I focus on creating projects that solve real-world problems and 
 Feel free to reach out if you want to collaborate or discuss ideas. You can connect with me through:
 
 - **Discord**: rustyjackie
-- **Email**: rustyjakiejack
+- **Email**: rustyjakiejack@gmail.com
